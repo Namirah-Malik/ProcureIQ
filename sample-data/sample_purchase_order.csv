@@ -1,0 +1,2 @@
+po_number,supplier_code,order_date,expected_delivery_date,currency,line_number,sku,description,quantity,unit_of_measure,unit_price
+PO-30001,SUP-001,2026-10-01,2026-10-10,INR,1,BRG-6204,Ball bearing 6204-2RS,300,EA,46

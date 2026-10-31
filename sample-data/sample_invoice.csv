@@ -1,0 +1,2 @@
+invoice_number,supplier_code,po_number,invoice_date,currency,tax,freight,discount,line_number,sku,description,quantity,unit_of_measure,unit_price
+KEY-INV-9001,SUP-001,PO-30001,2026-10-11,INR,0,0,0,1,BRG-6204,Ball bearing 6204-2RS,300,EA,49.5
